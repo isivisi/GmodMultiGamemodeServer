@@ -1,4 +1,4 @@
-# GmodMultiGamemodeServer
+# Gmod Multi Gamemode Server
 Script for running multiple gamemodes in one server automatically
 
 # Setup
