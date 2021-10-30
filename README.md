@@ -2,7 +2,7 @@
 Script for running multiple gamemodes in one server automatically
 
 # Setup
-Place the lua script into your gmod/lua folder, then add this line to your gmod/cfg/server.cfg file:
+Place the lua script into your garrysmod/lua folder, then add this line to your garrysmod/cfg/server.cfg file:
 
 ```lua_openscript SetGameMode.lua```
 
